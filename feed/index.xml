@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>My WordPress</title>
+	<atom:link href="http://localhost/tranvanthien/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tranvanthien123.github.io/tranvanthien</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 04 Jun 2021 13:45:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>day la post thu 2</title>
+		<link>http://tranvanthien123.github.io/tranvanthien/2021/06/04/day-la-post-thu-2/</link>
+					<comments>http://tranvanthien123.github.io/tranvanthien/2021/06/04/day-la-post-thu-2/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Fri, 04 Jun 2021 13:45:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[van hoc]]></category>
+		<guid isPermaLink="false">http://tranvanthien123.github.io/tranvanthien/?p=8</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<p>fanfkasfasfa fasfasasds adsa msadsa jdsadsa ds</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://tranvanthien123.github.io/tranvanthien/wp-content/uploads/2021/06/0000-2.png" alt="" class="wp-image-11" width="602" height="228"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tranvanthien123.github.io/tranvanthien/2021/06/04/day-la-post-thu-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>day la post dau cua toi</title>
+		<link>http://tranvanthien123.github.io/tranvanthien/2021/06/04/day-la-post-dau-cua-toi/</link>
+					<comments>http://tranvanthien123.github.io/tranvanthien/2021/06/04/day-la-post-dau-cua-toi/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Fri, 04 Jun 2021 13:38:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://tranvanthien123.github.io/tranvanthien/?p=5</guid>
+
+					<description><![CDATA[tanga ajajfasofjqwpofjqwo]]></description>
+										<content:encoded><![CDATA[
+<p class="has-dark-gray-color has-text-color">tanga ajajfasofjqwpofjqwo </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tranvanthien123.github.io/tranvanthien/2021/06/04/day-la-post-dau-cua-toi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://tranvanthien123.github.io/tranvanthien/2021/06/04/hello-world/</link>
+					<comments>http://tranvanthien123.github.io/tranvanthien/2021/06/04/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Fri, 04 Jun 2021 13:28:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://tranvanthien123.github.io/tranvanthien/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tranvanthien123.github.io/tranvanthien/2021/06/04/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
